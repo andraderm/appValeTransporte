@@ -1,0 +1,17 @@
+nav {
+    position: fixed;
+    width: 100vw;
+    z-index: +2;
+    align-items: left;
+    align-content: left;
+}
+
+.nav-link {
+    text-decoration: none;
+    color: black;
+}
+
+.nav-link:hover {
+    background-color: whitesmoke;
+    padding-left: 18px;
+}
